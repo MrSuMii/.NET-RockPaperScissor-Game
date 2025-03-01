@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RPSGame>
+	<Player_WinandLoss>
+		<player_user>
+			Sumit
+		</player_user>
+		<player_computer>
+			Computer
+		</player_computer>
+		<Win_Loss_Status>
+			Win-User
+		</Win_Loss_Status>
+	</Player_WinandLoss>
+</RPSGame>

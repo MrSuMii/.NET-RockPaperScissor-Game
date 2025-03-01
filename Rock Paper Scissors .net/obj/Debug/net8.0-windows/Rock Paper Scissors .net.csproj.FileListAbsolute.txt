@@ -1,0 +1,25 @@
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\Rock Paper Scissors .net.exe
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\Rock Paper Scissors .net.deps.json
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\Rock Paper Scissors .net.runtimeconfig.json
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\Rock Paper Scissors .net.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\Rock Paper Scissors .net.pdb
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock_Paper_Scissors_.net.Form1.resources
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock_Paper_Scissors_.net.Properties.Resources.resources
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.csproj.GenerateResource.cache
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.AssemblyInfoInputs.cache
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.AssemblyInfo.cs
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.csproj.CoreCompileInputs.cache
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\refint\Rock Paper Scissors .net.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.pdb
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.genruntimeconfig.cache
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\ref\Rock Paper Scissors .net.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Paper Scissors .net.csproj.AssemblyReference.cache
+C:\Users\Sumit\source\repos\AWP\Rock Paper Scissors .net\obj\Debug\net8.0-windows\Rock Pap.55A98EE0.Up2Date
